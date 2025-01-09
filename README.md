@@ -28,4 +28,4 @@ State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
 
 📋 How to Run the Project
-git clone https://github.com/your-username/quizapp.git
+git clone https://github.com/Shreya-0176/quizapp.git
